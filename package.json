@@ -1,0 +1,23 @@
+{
+  "name": "talks",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "x-ray": "^2.3.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "scripts": {},
+  "contributors": [
+    {
+      "name": "Eric Retzloff",
+      "email": "eretzloff@gmail.com"
+    }
+  ],
+  "keywords": [
+    "nationjs",
+    "schedule",
+    "speakers"
+  ]
+}
