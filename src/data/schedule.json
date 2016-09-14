@@ -1,0 +1,154 @@
+{
+  "events": [
+    {
+      "date": "Sep 15 - Party Night",
+      "event": [
+        {
+          "break": "Sapient Welcome Party (Click to Register)",
+          "times": {
+            "startsAt": "6:00",
+            "endsAt": "8:00"
+          }
+        }
+      ]
+    },
+    {
+      "date": "Sep 16 – NationJS Browser Day",
+      "event": [
+        {
+          "title": "Welcome!",
+          "times": {
+            "startsAt": "9:15",
+            "endsAt": "9:20"
+          }
+        },
+        {
+          "title": "Kickoff Keynote: The Human Centered Approach",
+          "times": {
+            "startsAt": "9:20",
+            "endsAt": "9:45"
+          }
+        },
+        {
+          "title": "WebVR: The Next Frontier",
+          "times": {
+            "startsAt": "9:50",
+            "endsAt": "10:15"
+          }
+        },
+        {
+          "title": "Angular 2, Demystified",
+          "times": {
+            "startsAt": "10:20",
+            "endsAt": "10:45"
+          }
+        },
+        {
+          "break": "Coffee Break (30 minutes)",
+          "times": {
+            "startsAt": "10:45",
+            "endsAt": "11:15"
+          }
+        },
+        {
+          "title": "Rise of the Web Workers",
+          "times": {
+            "startsAt": null,
+            "endsAt": null
+          }
+        },
+        {
+          "title": "Everything You Need to Know About JavaScript Accessibility",
+          "times": {
+            "startsAt": "11:45",
+            "endsAt": "12:10"
+          }
+        },
+        {
+          "title": "Angular Universal: Server-side Rendering When the Client Isn't Enough",
+          "times": {
+            "startsAt": null,
+            "endsAt": null
+          }
+        },
+        {
+          "break": "Lunch Break (60 minutes)",
+          "times": {
+            "startsAt": "12:40",
+            "endsAt": "1:40"
+          }
+        },
+        {
+          "title": "Redux, ngRedux, and Sagas: A Gentle Introduction for Angular Developers",
+          "times": {
+            "startsAt": "1:40",
+            "endsAt": "2:05"
+          }
+        },
+        {
+          "title": "Scaling React.js Applications",
+          "times": {
+            "startsAt": "2:10",
+            "endsAt": "2:35"
+          }
+        },
+        {
+          "break": "Short Break (15 minutes)",
+          "times": {
+            "startsAt": "2:35",
+            "endsAt": "2:50"
+          }
+        },
+        {
+          "title": "Fifty Points at Random",
+          "times": {
+            "startsAt": "2:50",
+            "endsAt": "3:15"
+          }
+        },
+        {
+          "title": "Demystifying WebGL",
+          "times": {
+            "startsAt": "3:20",
+            "endsAt": "3:45"
+          }
+        },
+        {
+          "break": "Snack Break (30 minutes)",
+          "times": {
+            "startsAt": "3:45",
+            "endsAt": "4:15"
+          }
+        },
+        {
+          "title": "Webpack: The Core Concepts",
+          "times": {
+            "startsAt": "4:15",
+            "endsAt": "4:40"
+          }
+        },
+        {
+          "title": "Delightful UX for Distributed Systems",
+          "times": {
+            "startsAt": "4:45",
+            "endsAt": "5:10"
+          }
+        },
+        {
+          "title": "Modern Websites for the Modern Web",
+          "times": {
+            "startsAt": null,
+            "endsAt": null
+          }
+        },
+        {
+          "title": "Capital One After Party",
+          "times": {
+            "startsAt": "6:00",
+            "endsAt": "7:30"
+          }
+        }
+      ]
+    }
+  ]
+}
