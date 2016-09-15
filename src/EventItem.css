@@ -1,0 +1,28 @@
+li.eventItem {
+  padding: 12px 24px;
+  border-bottom: solid 1px #eee;
+  cursor: pointer;
+}
+
+li.eventItem div {
+  padding-bottom: 6px;
+  line-height: 1.4;
+  font-size: 12pt;
+}
+
+li.eventItem div.time {
+  font-weight: 100;
+}
+
+li.eventItem div.title {
+  font-weight: bolder;
+}
+
+li.eventItem div.speaker {
+}
+
+li.eventItem div.description {
+  color: #999;
+  font-weight: 100;
+  display: none;
+}
