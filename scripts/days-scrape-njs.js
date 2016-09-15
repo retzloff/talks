@@ -17,32 +17,22 @@ const xray = new Xray({
       results !== null ? endsAt = results[0] : endsAt = null
 
       return {startsAt, endsAt}
+    },
+    idify: function (value) {
+      return value.toLowerCase().replace(' ', '-')
     }
   }
 })
 
 xray('http://www.nationjs.com/program', {
-  events: xray('ul.schedule', [{
+  days: xray('ul.schedule', [{
     date: 'li.date | removeNewlines',
-    event: xray('li.schedule span.talk', [{
+    events: xray('li.schedule span.talk', [{
       break: 'span.break | removeNewlines',
       title: 'span.talk-title | removeNewlines',
+      speaker: 'span.speaker-name | removeNewlines',
+      speakerId: 'span.speaker-name | removeNewlines | idify',
       times: 'span.time | removeNewlines | parseTimes',
     }])
   }])
-}).write('data/schedule.json')
-
-xray('http://www.nationjs.com/program', {
-  talks: xray('.speaker-row', [{
-    title: '.speaker-talk-title | removeNewlines',
-    description: '.speaker-talk-description | removeNewlines',
-    speaker: {
-      name: '.speaker-name | removeNewlines',
-      imageURL: '.speaker-column--image img@src',
-      personURL: '.speaker-bio a@href',
-      twitterName: '.speaker-twitter | removeNewlines',
-      twitterProfileURL: '.speaker-twitter a@href',
-      bio: '.speaker-bio | removeNewlines'
-    }
-  }])
-}).write('data/talks.json')
+}).write('days.json')

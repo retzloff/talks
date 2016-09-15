@@ -1,0 +1,141 @@
+{
+  "speakers": [
+    {
+      "id": "gill-haus",
+      "name": "Gill Haus",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/gill_haus-8a0f7f6ac79a3b66799fd1090361b0f0.png",
+      "personURL": "http://www.revolutionparts.com",
+      "bio": "Gill Haus is the Managing Vice President of Digital Innovation for the Retail and Direct Bank at Capital One, where he is responsible for building and sustaining an innovative technology organization while fostering a culture of excellence in software engineering and digital product development.",
+      "title": "Kickoff Keynote: The Human Centered Approach",
+      "description": "The evolution of browsers from the browser wars to having a human centered approach to ensure that as engineers we focus on the touchpoints that make sense, sharing work on Alexa to Chat bots to desktop apps using Electron."
+    },
+    {
+      "id": "martin-splitt",
+      "name": "Martin Splitt",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/martin_splitt-39928109c7ffb99d7d3e949e8c3fb8b3.jpg",
+      "personURL": "http://geekonaut.de/",
+      "twitterName": "@g33konaut",
+      "twitterProfileURL": "https://twitter.com/g33konaut",
+      "bio": "Martin Splittis pretty decent at humaning and pretty good at computering, so he decided to use his computering to improve his and other’s humaning.",
+      "title": "Demystifying WebGL",
+      "description": "The modern web is tearing down the borders of the browser window and allows us to create so much more than just another website."
+    },
+    {
+      "id": "nara-kasbergen",
+      "name": "Nara Kasbergen",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/nara_kasbergen-9139813bad7dfe16cf385b9d59a90c68.jpg",
+      "personURL": "http://nara-designs.com/",
+      "twitterName": "@xiehan",
+      "twitterProfileURL": "https://twitter.com/xiehan",
+      "bio": "Nara Kasbergenis a full-stack developer in NPR’s Digital Media group, having spent the past two years building and growing NPR One’s developer platform andNPR One for the Web,an Angular2 webapp. Previously, she was part of the NPR Music responsive redesign project. In a past life, she was an AngularJS early adopter at an edtech research lab at Columbia University. She has a BFA in Communication Design from Carnegie Mellon University, and a Masters from the Interactive Telecommunications Program (ITP) at NYU. Nara is an avid foodie who knows all the best restaurants, collects board games, and watches too much Netflix.",
+      "title": "Angular 2, Demystified",
+      "description": "Angular 2 aims to be the next major frontend framework, attempting to improve where the original AngularJS failed while retaining the parts that were great. But is it production-ready yet? And why should you use this over, say, React with Redux? At NPR, we were early adopters of Angular 2, building and launching a production app while the framework was still in beta, so we took a big risk but we think it’s paid off. Come find out what we love about it, what gave us the most trouble when we were getting started, and why we think you should consider using it for your next project."
+    },
+    {
+      "id": "patrick-kettner",
+      "name": "Patrick Kettner",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/patrick_kettner-9856c394864474565845ab1a4876aa24.jpg",
+      "personURL": "https://github.com/patrickkettner",
+      "twitterName": "@patrickkettner",
+      "twitterProfileURL": "https://twitter.com/patrickkettner",
+      "bio": "Patrick Kettnerwon a year nine award competition singing Gloria Gaynor’s 1978 disco hit “I Will Survive”, and things have been looking up ever since. He has traded in the golden microphone for a PM position on Microsoft Edge, as well as being the lead developer for Modernizr. He lives in Seattle with his wonderful partner Katrina, and dog Baxter.",
+      "title": "Modern Websites for the Modern Web",
+      "description": "It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won’t be able to use them for years - right? Wrong. I will go over how creating feature rich and super fast front end applications, integrating over a dozen cutting edge web features, all while supporting even the oldest of web clients. If you want to see a 100% client side offline enabled application work in every browser to Mosiac, and even be ported to a command line GUI (yes GUI), come check it out!"
+    },
+    {
+      "id": "andrew-cassell",
+      "name": "Andrew Cassell",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/andrew_cassell-58e31e3d251e9a0fd23cad9fefab87d4.jpg",
+      "personURL": "http://www.andrewcassell.com/",
+      "twitterName": "@alc277",
+      "twitterProfileURL": "https://twitter.com/alc277",
+      "bio": "Andrew Cassellis a full-stack web application developer in Herndon, Virginia who designs and builds user experiences that are delightful on any device. Andy is an employee of the non-profit Marine Spill Response Corporation, the largest dedicated oil spill and emergency response organization. He works on their website and internal web applications.",
+      "title": "WebVR: The Next Frontier",
+      "description": "As new virtual reality headsets are quickly becoming available to the consumer, WebVR is opening up new frontiers of interaction for the web. Beyond gaming and entertainment, WebVR is creating whole new classes of immersive applications for the Web Platform in communication, education, shopping, and more. Let’s see how easy it is to get started developing for virtual reality in a browser by building a virtual reality experience using A-Frame, React, an Oculus Rift, and a Leap Motion controller."
+    },
+    {
+      "id": "max-stoiber",
+      "name": "Max Stoiber",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/max_stoiber-c3653fa73d9bdfee7c51509c003f228b.jpg",
+      "personURL": "http://thinkmill.com.au/",
+      "twitterName": "@mxstbr",
+      "twitterProfileURL": "https://twitter.com/mxstbr",
+      "bio": "Max travels around the world, brews coffee, skis mountains and makes stuff on the web. He works as an open source developer atThinkmill,where he maintainsKeystoneJSandElementalUI,is the creator ofreact-boilerplateand is part of React Vienna.",
+      "title": "Scaling React.js Applications",
+      "description": "React is great to build applications with, but hard to build big applications with. Making sure your setup is top notch from the very beginning is essential to avoid a lot of technical debt later on. Utilizing the amazing tools at our disposal, the best architectural foundation possible and leveraging current best practices, we’ll showcase how to start your next project the right way."
+    },
+    {
+      "id": "parashuram-n",
+      "name": "Parashuram N",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/parashuram_n-d3ae9850bb3248c8b247a29c2f940bcb.jpg",
+      "personURL": "http://nparashuram.com/",
+      "twitterName": "@nparashuram",
+      "twitterProfileURL": "https://twitter.com/nparashuram",
+      "bio": "Parashuramis a front end developer and web performance enthusiast and author of tools like browser-perf. He has created the Web Worker based render for ReactJS and runs “science-like” experiments to explore ways to make web applications faster.",
+      "title": "Rise of the Web Workers",
+      "description": "Modern web applications are awesome. And complicated. The Javascript libraries that power them today do a lot of work to abstract out the hard parts. Whether using constructs like Virtual DOM, or fancy change detection algorithms, the amount of work that the Javascript library does is only increasing."
+    },
+    {
+      "id": "karl-groves",
+      "name": "Karl Groves",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/karl_groves-f2c44a21226b2c3b230c17084b9a2c01.jpg",
+      "personURL": "http://www.karlgroves.com/",
+      "twitterName": "@karlgroves",
+      "twitterProfileURL": "https://twitter.com/karlgroves",
+      "bio": "Karl Grovesis an unstoppable force for change and thought-leader in an industry regarded for saying ‘No’. Karl would rather lead by example in saying ‘Yes, and here’s how…’ He seeks to offer solutions to complex problems relating to universal usability. He believes that together we can meet both our goals: your business goals and his goals to lead the way in accessible user experiences. Karl has over a decade of experience in doing IT consulting for the biggest companies in the world and biggest agencies in the U.S. government. Widely regarded as a pragmatic solution-finder, his work is cited in nearly a dozen books and used on curricula in Human-Computer Interaction across the globe. He leads by doing, teaches from experience, and succeeds by facilitating others’ success. When others say, ‘That can’t be done,’ Karl shows them how.",
+      "title": "Everything You Need to Know About JavaScript Accessibility",
+      "description": "Accessibility is often seen as nebulous by designers and developers. It is particularly difficult if you don’t know anyone with disabilities or have never watched anyone with disabilities use a computer. In this talk, Karl Groves uses a live coding example to walk through the high level requirements for an accessible user experience that relies on JavaScript."
+    },
+    {
+      "id": "justin-falcone",
+      "name": "Justin Falcone",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/justin_falcone-a1649e096cb8e1e438f32ca1aec8f89c.jpg",
+      "personURL": "http://justinfalcone.com/",
+      "twitterName": "@modernserf",
+      "twitterProfileURL": "https://twitter.com/modernserf",
+      "bio": "Justin Falconeis a programmer and writer living in Brooklyn NY. When he’s not building tools for data visualization, he’s cooking up an elaborate breakfast or hanging out with his beloved guinea pigs, Allegra and Claritin.",
+      "title": "\"fifty points at random\"",
+      "description": "When does process become art? When do tools become collaborators? Let’s explore the world of procedural art – both analog and digital – through the wall drawing of Sol LeWitt. This talk teaches how to make art in the style of LeWitt’s wall drawings with CSS and JavaScript, and along the way provides some insight into the history of procedural art, the nature of randomness, and how tools and algorithms for creating art lead to new forms of collaboration."
+    },
+    {
+      "id": "mike-north",
+      "name": "Mike North",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/mike_north-663b66bccf65b64d2f3ae92fa453d6b2.jpg",
+      "personURL": "http://mike.works/",
+      "twitterName": "@MichaelLNorth",
+      "twitterProfileURL": "https://twitter.com/MichaelLNorth",
+      "bio": "Mike Northis the CTO of Levanto Financial, and before I started working here, I was the UI Architect of Yahoo’s Ads and Data division. While there, I was the driving force to get the company off of antiquated frameworks like YUI (and a generally fragmented ecosystem), onto modern technologies like Ember.js and React. I’m an avid open source contributor in the JavaScript community, and am cracking into the Elixir community more and more. Earlier this year, my in-depth video course on Ember.js course went live on frontendmasters.com.",
+      "title": "Delightful UX for Distributed Systems",
+      "description": "Long-running processes, concurrent editing, operations requiring user intervention, and integration with unreliable external services present new challenges to building web UIs. Building a pleasurable, robust and reliable user experience is more far more challenging when critical pieces of your workflow are out of your direct control."
+    },
+    {
+      "id": "lizz-sommerfield",
+      "name": "Lizz Sommerfield",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/lizz_sommerfield-47a9b2ac2fe4dd5d19161fb65674e834.jpg",
+      "twitterProfileURL": "https://twitter.com/lizzsommerfield",
+      "bio": "Lizz Sommerfield is a Technical Architect at Inspire.com, a healthcare social network of some 850,000 patients and caregivers.  An early adopter of All Things Javascript over the Flash of the past, she has been building dynamic user interfaces with HTML, CSS and Javascript on all sorts of different platforms for a really, really long time. She is a fan of the oxford comma, still puts two spaces after a period, and has a soft spot for all flavors of AngularJS.  Lizz resides in Arlington, VA with her husband, two daughters, and very fuzzy dog.",
+      "title": "Angular Universal: Server-side Rendering When the Client Isn't Enough",
+      "description": "Have you ever written a wonderful, content-rich, cutting edge Angular 2 app only to discover that sharing the link on Facebook or Twitter results in an ugly mess?  Have your users ever complained that they have to sit there and wait for your app to start up before they can use it?  Have you ever wished that search engines other than Google could crawl all that great content you have to share?  If so, Angular Universal may be for you.  Learn how to get started with Angular Universal using node.js and webpack.  Take your brand new Angular 2 application and learn how generating part of it server side will make more than just your google rank happy.  We'll look at the current state of this beta product, how to set it up and start playing with it, what parts of your site you might want to optimize with server-side generation, and where to go for help when you get stuck."
+    },
+    {
+      "id": "sean-larkin",
+      "name": "Sean Larkin",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/sean_larkin-fd765d0e32f0947814c56a8f42c722f1.jpg",
+      "personURL": "https://github.com/thelarkinn",
+      "twitterName": "@TheLarkInn",
+      "twitterProfileURL": "https://twitter.com/TheLarkInn",
+      "bio": "Sean Larkinis a User Experience Developer at Mutual of Omaha. Former technical support representative turned renegade software engineer and web developer, driven by the need to help people through the code he writes. 3.5 years now into the web world, Sean is a member of the Webpack core team, angular team and angular-cli core team, has held talks on Ruby, DAMP programming, AngularJS, and Webpack and lives to teach others about the world of Web Development. From Lincoln, Nebraska, loves to spend his time with his wife, newborn son, 18 chickens, dog, and gypsy cat. Obsessed with AngularJS, readability, Webpack, bundlers, tooling, and anything that helps Web Dev and Engineering easier and more enjoyable for anyone!",
+      "title": "Webpack: The Core Concepts",
+      "description": "I had the opportunity to be introduced to using Webpack working at React shop, however as an AngularJS Fanboy and Apologist, I longed to bring the same brain-melting, experience to my ngApp. Problem was that I used, webpack, but never understood it. From automatically managing Bower, AMD, and NPM dependencies to code-splitting, minification, and source-mapping, I realized Webpack automagically handles all the hurdles I had ever encountered in my previous web projects. Together we will break down the core concepts and demystify this amazing tool."
+    },
+    {
+      "id": "jesse-warden",
+      "name": "Jesse Warden",
+      "imageURL": "http://www.nationjs.com/assets/speakers/2016/jesse_warden-a7ffc9be4642d3b36b7a21de6f78c837.jpg",
+      "personURL": "http://jessewarden.com/",
+      "bio": "Jesse Warden,is a Manager atCapital Onedeveloping software using JavaScript and Node. His background started building desktop and web applications using Director, Flash, and Flex. He freelanced with various design agencies and startups, then eventually got into consulting independently and with firms for enterprise software. His current passion is becoming better at Functional Programming. In his spare time he’s an amateur powerlifter.",
+      "title": "Redux, ngRedux, and Sagas: A Gentle Introduction for Angular Developers",
+      "description": "You either have heard of Redux from the React crowd, or perhaps have learned a little functional programming, and are looking how to incorporate it into your Angular applications. Jesse will cover what Redux is, why it's helpful, how it's different from Flux/MobX, and how it's used in an Angular application. He'll also cover to use of Sagas, and how they make dealing with complicated asynchronous actions a lot easier to code if you're used to imperative/OOP languages, as well as testing them. Finally, he'll cover some of the pain points you can run into, refactoring strategies, and tooling setup needed."
+    }
+  ]
+}
