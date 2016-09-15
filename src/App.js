@@ -9,7 +9,7 @@ import EventList from './EventList'
 class App extends Component {
   render() {
     console.log(speakers)
-    
+
     return (
       <div>
         <header>
@@ -17,6 +17,7 @@ class App extends Component {
           <h1>NationJS</h1>
         </header>
         <EventList schedule={days[1]} />
+        <footer><a href="www.nationjs.com">www.nationjs.com</a></footer>
       </div>
     )
   }
