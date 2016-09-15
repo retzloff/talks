@@ -13,13 +13,15 @@ class App extends Component {
     return (
       <div>
         <header>
-          <img src="http://www.nationjs.com/assets/conference/NationJ2015LogoGraphic-ac7c6b6139e66544bcb7f4788df3e0e3.png" alt='NationJS Logo' />
-          <h1>NationJS</h1>
+          <h1>
+            <img src="http://www.nationjs.com/assets/conference/NationJ2015LogoGraphic-ac7c6b6139e66544bcb7f4788df3e0e3.png" alt='NationJS Logo' />
+            NationJS
+          </h1>
         </header>
         <main>
           <EventList schedule={days[1]} />
         </main>
-        <footer><a href="www.nationjs.com">www.nationjs.com</a></footer>
+        <footer><a href="http://www.nationjs.com">www.nationjs.com</a></footer>
       </div>
     )
   }
