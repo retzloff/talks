@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+ import React, { Component } from 'react'
 import './EventItem.css'
 
 class EventItem extends Component {
@@ -22,15 +22,16 @@ class EventItem extends Component {
 
     return (
       <li className="eventItem" onClick={this.handleClick}>
-        <div className="time">{event.times.startsAt} - {event.times.endsAt}</div>
-        <div className="title">{event.title || event.break}</div>
-        { event.speaker
-          ? <div className="speaker">{event.speaker}</div>
-          : null
-        }
+        <EventTime times={event.times} />
+        <EventTitle event={event} />
+        <EventSpeaker speaker={event.speaker} />
       </li>
     )
   }
 }
+
+const EventTime = (props) => <div className="time">{props.times.startsAt} - {props.times.endsAt}</div>
+const EventTitle = (props) => <div className="title">{props.event.title || props.event.break}</div>
+const EventSpeaker = (props) => props.speaker ? <div className="speaker">{props.speaker}</div> : null
 
 export default EventItem;
