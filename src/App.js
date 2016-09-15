@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import './App.css'
+import appleIcon from './apple-touch-icon-114x114.png'
 
 import {days} from './data/days.json'
 import {speakers} from './data/speakers.json'
@@ -12,6 +13,7 @@ class App extends Component {
 
     return (
       <div>
+        <link rel="apple-touch-icon" sizes="114x114" href={appleIcon} />
         <header>
           <img src="http://www.nationjs.com/assets/conference/NationJ2015LogoGraphic-ac7c6b6139e66544bcb7f4788df3e0e3.png" alt='NationJS Logo' />
           <h1>NationJS</h1>
