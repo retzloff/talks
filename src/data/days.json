@@ -79,7 +79,12 @@
           "times": {
             "startsAt": "11:05",
             "endsAt": "11:30"
-          }
+          },
+          "resources": [
+            {
+              "title": "Rise of the Web Workers - NationJS",
+              "url": "http://blog.nparashuram.com/2016/09/rise-of-web-workers-nationjs.html"
+            }          ]
         },
         {
           "title": "Everything You Need to Know About JavaScript Accessibility",
