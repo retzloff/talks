@@ -21,8 +21,7 @@
             "startsAt": "8:00",
             "endsAt": "9:15"
           }
-        },
-        {
+        },        {
           "title": "Welcome!",
           "times": {
             "startsAt": "9:15",
@@ -30,9 +29,9 @@
           }
         },
         {
-          "title": "Kickoff Keynote: The Human Centered Approach",
-          "speaker": "Gill Haus",
-          "speakerId": "gill-haus",
+          "title": "Kickoff Talk",
+          "speaker": "Archana Prasanna Kumar",
+          "speakerId": "archana-prasanna kumar",
           "times": {
             "startsAt": "9:20",
             "endsAt": "9:45"
@@ -57,10 +56,10 @@
           }
         },
         {
-          "break": "Coffee Break (30 minutes)",
+          "break": "Coffee Break (20 minutes)",
           "times": {
             "startsAt": "10:45",
-            "endsAt": "11:15"
+            "endsAt": "11:05"
           }
         },
         {
@@ -68,8 +67,8 @@
           "speaker": "Parashuram N",
           "speakerId": "parashuram-n",
           "times": {
-            "startsAt": "11:15",
-            "endsAt": "11:40"
+            "startsAt": null,
+            "endsAt": null
           }
         },
         {
@@ -77,8 +76,8 @@
           "speaker": "Karl Groves",
           "speakerId": "karl-groves",
           "times": {
-            "startsAt": "11:45",
-            "endsAt": "12:10"
+            "startsAt": "11:35",
+            "endsAt": "12:00"
           }
         },
         {
@@ -86,15 +85,15 @@
           "speaker": "Lizz Sommerfield",
           "speakerId": "lizz-sommerfield",
           "times": {
-            "startsAt": "12:15",
-            "endsAt": "12:40"
+            "startsAt": null,
+            "endsAt": null
           }
         },
         {
           "break": "Lunch Break (60 minutes)",
           "times": {
-            "startsAt": "12:40",
-            "endsAt": "1:40"
+            "startsAt": "12:30",
+            "endsAt": "1:30"
           }
         },
         {
@@ -102,8 +101,8 @@
           "speaker": "Jesse Warden",
           "speakerId": "jesse-warden",
           "times": {
-            "startsAt": "1:40",
-            "endsAt": "2:05"
+            "startsAt": "1:30",
+            "endsAt": "1:55"
           }
         },
         {
@@ -111,15 +110,15 @@
           "speaker": "Max Stoiber",
           "speakerId": "max-stoiber",
           "times": {
-            "startsAt": "2:10",
-            "endsAt": "2:35"
+            "startsAt": "2:00",
+            "endsAt": "2:25"
           }
         },
         {
           "break": "Short Break (15 minutes)",
           "times": {
-            "startsAt": "2:35",
-            "endsAt": "2:50"
+            "startsAt": "2:25",
+            "endsAt": "2:40"
           }
         },
         {
@@ -127,8 +126,8 @@
           "speaker": "Justin Falcone",
           "speakerId": "justin-falcone",
           "times": {
-            "startsAt": "2:50",
-            "endsAt": "3:15"
+            "startsAt": "2:40",
+            "endsAt": "3:05"
           }
         },
         {
@@ -136,15 +135,15 @@
           "speaker": "Martin Splitt",
           "speakerId": "martin-splitt",
           "times": {
-            "startsAt": "3:20",
-            "endsAt": "3:45"
+            "startsAt": "3:10",
+            "endsAt": "3:35"
           }
         },
         {
           "break": "Snack Break (30 minutes)",
           "times": {
-            "startsAt": "3:45",
-            "endsAt": "4:15"
+            "startsAt": "3:35",
+            "endsAt": "4:05"
           }
         },
         {
@@ -152,8 +151,8 @@
           "speaker": "Sean Larkin",
           "speakerId": "sean-larkin",
           "times": {
-            "startsAt": "4:15",
-            "endsAt": "4:40"
+            "startsAt": "4:05",
+            "endsAt": "4:30"
           }
         },
         {
@@ -161,8 +160,8 @@
           "speaker": "Mike North",
           "speakerId": "mike-north",
           "times": {
-            "startsAt": "4:45",
-            "endsAt": "5:10"
+            "startsAt": "4:35",
+            "endsAt": "5:00"
           }
         },
         {
@@ -170,8 +169,8 @@
           "speaker": "Patrick Kettner",
           "speakerId": "patrick-kettner",
           "times": {
-            "startsAt": "5:15",
-            "endsAt": "5:40"
+            "startsAt": null,
+            "endsAt": null
           }
         },
         {
