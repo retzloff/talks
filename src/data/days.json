@@ -16,6 +16,13 @@
       "date": "Sep 16 – NationJS Browser Day",
       "events": [
         {
+          "title": "Breakfast and Registration",
+          "times": {
+            "startsAt": "8:00",
+            "endsAt": "9:15"
+          }
+        },
+        {
           "title": "Welcome!",
           "times": {
             "startsAt": "9:15",
