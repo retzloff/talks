@@ -44,7 +44,17 @@
           "times": {
             "startsAt": "9:50",
             "endsAt": "10:15"
-          }
+          },
+          "resources": [
+            {
+              "title": "Tech Demo: 2D Puppet Show Demo Of Augmented Reality Using Javascript",
+              "url": "https://github.com/cassell/frozen-web-augmented-reality-demo"
+            },
+            {
+              "title": "Watch Several Video Feeds In A Soccer Stadium in WebVR",
+              "url": "https://github.com/cassell/webvr-soccer-stadium-multiplex"
+            }
+          ]
         },
         {
           "title": "Angular 2, Demystified",
@@ -67,8 +77,8 @@
           "speaker": "Parashuram N",
           "speakerId": "parashuram-n",
           "times": {
-            "startsAt": null,
-            "endsAt": null
+            "startsAt": "11:05",
+            "endsAt": "11:30"
           }
         },
         {
@@ -85,8 +95,8 @@
           "speaker": "Lizz Sommerfield",
           "speakerId": "lizz-sommerfield",
           "times": {
-            "startsAt": null,
-            "endsAt": null
+            "startsAt": "12:05",
+            "endsAt": "12:30"
           }
         },
         {
@@ -169,8 +179,8 @@
           "speaker": "Patrick Kettner",
           "speakerId": "patrick-kettner",
           "times": {
-            "startsAt": null,
-            "endsAt": null
+            "startsAt": "5:05",
+            "endsAt": "5:30"
           }
         },
         {

@@ -1,0 +1,12 @@
+div.eventItemResources {
+  padding: 6px 0 0 24px;
+}
+
+div.eventItemResources p {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+dl.eventItemResources div {
+  font-size: 80%;
+}

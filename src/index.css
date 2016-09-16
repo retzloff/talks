@@ -1,4 +1,4 @@
-body, header, footer, main, h1, ul, li {
+body, header, footer, main, h1, ul, li, dl, dt, dd, p {
   margin: 0;
   padding: 0;
   font-family: Helvetica, Arial, sans-serif;

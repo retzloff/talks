@@ -1,5 +1,7 @@
- import React, { Component } from 'react'
+import React, { Component } from 'react'
 import './EventItem.css'
+
+import EventItemResources from './EventItemResources'
 
 class EventItem extends Component {
   constructor(props) {
@@ -24,6 +26,7 @@ class EventItem extends Component {
         <EventTime times={event.times} />
         <EventTitle event={event} />
         <EventSpeaker speaker={event.speaker} />
+        <EventItemResources resources={event.resources} />
       </li>
     )
   }
