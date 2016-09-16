@@ -21,7 +21,10 @@ class App extends Component {
         <main>
           <EventList schedule={days[1]} />
         </main>
-        <footer><a href="http://www.nationjs.com">www.nationjs.com</a></footer>
+        <footer>
+          <a href="http://www.nationjs.com">www.nationjs.com</a>|
+          <a href="https://github.com/retzloff/talks">Github repo</a>
+          </footer>
       </div>
     )
   }

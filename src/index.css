@@ -13,6 +13,7 @@ body {
   margin-top: 50px;
   margin-bottom: 36px;
   background: #55828b;
+  color: #333;
 }
 
 header {
@@ -37,12 +38,15 @@ footer {
   padding: 8px 0;
   text-align: center;
   border-top: 2px solid #333;
+  color: rgba( 255, 255, 255, 0.5);
 }
 
 footer a {
   color: rgba( 255, 255, 255, 0.9);
   font-weight: 200;
   font-size:80%;
+  display: inline-block;
+  padding: 0 0.5em;
 }
 
 h1 {
