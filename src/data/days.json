@@ -84,7 +84,8 @@
             {
               "title": "Rise of the Web Workers - NationJS",
               "url": "http://blog.nparashuram.com/2016/09/rise-of-web-workers-nationjs.html"
-            }          ]
+            }
+          ]
         },
         {
           "title": "Everything You Need to Know About JavaScript Accessibility",
@@ -127,7 +128,13 @@
           "times": {
             "startsAt": "2:00",
             "endsAt": "2:25"
-          }
+          },
+          "resources": [
+            {
+              "title": "Scaling React.js Application slides",
+              "url": "https://speakerdeck.com/mxstbr/scaling-react-dot-js-applications-short-version"
+            }
+          ]
         },
         {
           "break": "Short Break (15 minutes)",
