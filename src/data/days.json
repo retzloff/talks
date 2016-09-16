@@ -150,7 +150,21 @@
           "times": {
             "startsAt": "2:40",
             "endsAt": "3:05"
-          }
+          },
+          "resources": [
+            {
+              "title": "vart institute",
+              "url": "http://vart.institute/"
+            },
+            {
+              "title": "Amy Cheng - Recreate Masterpieces of Modern Art with Javascript",
+              "url": "https://youtu.be/Eu9HdewEU7c"
+            },
+            {
+              "title": "Solving Sol",
+              "url": "http://solvingsol.com/"
+            }
+          ]
         },
         {
           "title": "Demystifying WebGL",
@@ -159,7 +173,13 @@
           "times": {
             "startsAt": "3:10",
             "endsAt": "3:35"
-          }
+          },
+          "resources": [
+            {
+              "title": "Slides",
+              "url": "http://bit.ly/nationjs-webgl"
+            }
+          ]
         },
         {
           "break": "Snack Break (30 minutes)",

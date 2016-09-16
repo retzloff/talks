@@ -7,17 +7,16 @@ const EventItemResources = (props) => {
   if (resources) {
     var resourceElements = resources.map((resource) => {
       return (
-        <div className="resourceItem">
-          <dt>{resource.title}</dt>
-          <dd><a href={resource.url}>{resource.url}</a></dd>
-        </div>
+        <li className="resourceItem">
+          {resource.title} - <a href={resource.url}>{resource.url}</a>
+        </li>
       )
     })
 
     return (
       <div className="eventItemResources">
         <p>Resources</p>
-        <dl>{resourceElements}</dl>
+        <ul>{resourceElements}</ul>
       </div>
     )
   } else {
