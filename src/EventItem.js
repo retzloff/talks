@@ -14,7 +14,6 @@ class EventItem extends Component {
     this.setState({
       showDetails: !this.state.showDetails
     })
-    console.log(this.state.showDetails)
   }
 
   render() {
