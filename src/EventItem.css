@@ -2,10 +2,6 @@ li.eventItem {
   padding: 12px 24px;
   border-bottom: solid 1px #eee;
   cursor: pointer;
-  float: left;
-  width: 100%;
-  background: #fff;
-  clear: both;
 }
 
 li.eventItem div {
@@ -15,16 +11,7 @@ li.eventItem div {
 }
 
 li.eventItem div.time {
-  background-color: #0f5257;
-  color: rgba( 255, 255, 255, 0.8);
-  font-size: 120%;
-  font-weight: 600;
-  padding: 8px;
-  float: left;
-  margin-right: 12px;
-  width: 2.8em;
-  text-align: right;
-  border-radius: 6px;
+  font-weight: 100;
 }
 
 li.eventItem div.title {

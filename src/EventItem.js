@@ -29,7 +29,7 @@ class EventItem extends Component {
   }
 }
 
-const EventTime = (props) => <div className="time">{props.times.startsAt}<br />{props.times.endsAt}</div>
+const EventTime = (props) => <div className="time">{props.times.startsAt} - {props.times.endsAt}</div>
 const EventTitle = (props) => <div className="title">{props.event.title || props.event.break}</div>
 const EventSpeaker = (props) => props.speaker ? <div className="speaker">{props.speaker}</div> : null
 
